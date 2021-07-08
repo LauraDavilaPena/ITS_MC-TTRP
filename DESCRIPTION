@@ -1,0 +1,10 @@
+Package: itsmcttrp
+Type: Package
+Title: Iterated Tabu Search in Multi-Compartment Truck and Trailer Routing Problem (ITSMC-TTRP)
+Version: 0.1.0
+Author: Laura Davila-Pena, David R Penas, and Balbina Casas-Méndez.
+Maintainer: Balbina Casas-Méndez <balbina.casas.mendez@usc.es>
+Description: This is version 0.1 of a novel heuristic based in Iterated Tabu Search method, to solve MC-TTRP optimization problems. 
+License: GPLv3
+Encoding: UTF-8
+LazyData: true
